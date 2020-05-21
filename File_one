@@ -1,34 +1,9 @@
-commit one
-commit one
---------------------
-commit two
-commit two
---------------------
-commit three
-commit three
---------------------
-
-Branch_one-----commit one
-Branch_one-----commit one
-
---------------------
-
-again Branch_one-----commit one
-again Branch_one-----commit one
---------------------
-again Branch_one-----commit two
-again Branch_one-----commit two
---------------------
-
-
-Branch two------commit one
-Branch two------commit one
---------------------
-Branch two------commit two
-Branch two------commit two
---------------------
-
-
-
-
-
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
+***************
